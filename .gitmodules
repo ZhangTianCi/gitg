@@ -4,3 +4,6 @@
 [submodule "two"]
 	path = two
 	url = /Users/allen/zhang_tianci_self/gitg/two
+[submodule "asura-js"]
+	path = asura-js
+	url = git@github.com:ZhangTianCi/asura-js.git
