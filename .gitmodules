@@ -1,6 +1,6 @@
 [submodule "one"]
 	path = one
-	url = git@github.com:ZhangTianCi/asura-js.git
+	url = /Users/allen/zhang_tianci_self/gitg/one
 [submodule "two"]
 	path = two
 	url = /Users/allen/zhang_tianci_self/gitg/two
